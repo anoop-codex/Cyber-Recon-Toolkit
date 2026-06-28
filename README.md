@@ -1,55 +1,44 @@
-# 🛡 Cyber Recon Toolkit
+# 🛡️ Cyber Recon Toolkit
 
 A Python-based cybersecurity toolkit developed by **Anoop**.
 
 ## 🚀 Features
 
 - 🌐 Website Information
-- 🔍 DNS Lookup
-- 🔐 Password Generator
+- 🌍 DNS Lookup
+- 🔐 SSL Certificate Checker
+- 🔑 Password Generator
 - 💪 Password Strength Checker
-- 🔑 Hash Generator
-- ✅ Hash Verifier
+- #️⃣ Hash Generator
+- ✔️ Hash Verifier
 - 📡 Port Scanner
-- 🔒 SSL Certificate Checker
 
-## 🛠 Technologies Used
+## 🛠️ Technologies Used
 
 - Python 3
-- Requests Library
-- Socket Programming
-- SSL Module
+- Socket
+- Requests
 - Hashlib
+- SSL
 
-## 📂 Project Structure
-
-```
-Cyber-Recon-Toolkit/
-│
-├── modules/
-├── banner.py
-├── main.py
-├── README.md
-```
-
-## ▶️ How to Run
-
-Install the required package:
+## 📦 Installation
 
 ```bash
-pip install requests
-```
+git clone https://github.com/anoop-codex/Cyber-Recon-Toolkit.git
 
-Run the project:
+cd Cyber-Recon-Toolkit
 
-```bash
+pip install -r requirements.txt
+
 python main.py
 ```
 
-## 🎯 Purpose
+## 📷 Preview
 
-This project was built to practice Python programming and learn cybersecurity concepts such as DNS lookup, SSL certificates, hashing, password generation, and port scanning.
+(Add screenshots here later)
 
 ## 👨‍💻 Developer
 
 **Anoop**
+
+Cybersecurity Enthusiast | Python Developer | Ethical Hacking Learner
