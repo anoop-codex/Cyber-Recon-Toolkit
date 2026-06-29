@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.13-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Version](https://img.shields.io/badge/Version-v1.0.0-orange)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
 # 🛡️ Cyber Recon Toolkit
 
 A Python-based command-line cybersecurity toolkit developed by **Anoop**.
